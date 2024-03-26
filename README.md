@@ -37,4 +37,5 @@ By Homer Quan, Ayan Das, Garv Sehgal, Daniel Chen
 `export OPENAI_API_KEY= xxxxxxx`
 2. start model using combined_servic, either use web service: `/web.js` or use `cli.js`
 
-<img width="800" alt="Demo" src="https://github.com/homerlab/ivyhack-risk-advisor/assets/113078548/a0336879-5275-4f33-8207-774c5fbdf3d0"># ivyhacks-second-insight
+<img width="800" alt="Demo" src="https://github.com/homerlab/ivyhack-risk-advisor/assets/113078548/a0336879-5275-4f33-8207-774c5fbdf3d0">
+ivyhacks-second-insight
