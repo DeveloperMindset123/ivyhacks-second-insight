@@ -1,0 +1,1 @@
+{"actions":[{"action":"LOOK_REPORT","data":{"symbol":"GOOGL","range":{"from":"2020-01-01","to":"2021-12-31"}}},{"action":"LOOK_STOCK_PRICE","data":{"symbol":"GOOGL","range":{"from":"2020-01-01","to":"2021-12-31"}}}]}

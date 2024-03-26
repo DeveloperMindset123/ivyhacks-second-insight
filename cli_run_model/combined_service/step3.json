@@ -1,0 +1,27 @@
+{
+  "summary": "Based on Google's annual report and stock market performance as of 2022/01/01, it appears to be a promising investment opportunity with strong growth potential.",
+  "score": 4,
+  "risks": [
+    {
+      "name": "Market Competition",
+      "details": "Google faces intense competition in the tech industry, particularly from companies like Apple, Amazon, and Microsoft. Any significant advancements or market dominance by these competitors could potentially impact Google's market share and stock price.",
+      "evidence": "According to the annual report, Google acknowledges the competitive landscape in the tech industry and the need to continuously innovate to maintain its position."
+    },
+    {
+      "name": "Regulatory Risks",
+      "details": "Google is subject to increasing regulatory scrutiny globally, particularly regarding data privacy and antitrust concerns. Regulatory actions or fines could impact Google's operations and financial performance.",
+      "evidence": "The annual report highlights the ongoing regulatory challenges Google faces, including antitrust investigations and privacy regulations that could affect its business practices."
+    },
+    {
+      "name": "Cybersecurity Threats",
+      "details": "As a tech company, Google is vulnerable to cybersecurity threats such as data breaches and hacking attempts. Any significant security breach could damage Google's reputation and lead to financial losses.",
+      "evidence": "The annual report mentions the importance of cybersecurity measures and investments to protect user data and maintain trust in Google's platforms."
+    },
+    {
+      "name": "Market Volatility",
+      "details": "The stock market can be volatile, and external factors such as economic conditions, geopolitical events, or natural disasters can impact Google's stock price. Sudden market fluctuations could lead to short-term losses for investors.",
+      "evidence": "Historical stock price data shows instances of market volatility affecting Google's stock price, indicating the potential risks associated with investing in the stock market."
+    }
+  ],
+  "bi": {}
+}
