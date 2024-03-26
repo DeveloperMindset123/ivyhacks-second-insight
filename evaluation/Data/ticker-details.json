@@ -1,0 +1,5 @@
+{
+    "status": "ERROR",
+    "request_id": "a9c2e03ccf846de2ac3cd910697939e7",
+    "error": "Failed to parse query parameter for `date`: provided date was not formatted by one of the acceptable formats: 2006-01-02 | 2006-01-02T15:04:05Z07:00 | 2006-01-02T15:04:05.999999999Z07:00"
+}

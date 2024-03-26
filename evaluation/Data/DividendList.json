@@ -1,0 +1,117 @@
+{
+    "results": [
+        {
+            "cash_amount": 0.546875,
+            "currency": "USD",
+            "declaration_date": "2023-08-18",
+            "dividend_type": "CD",
+            "ex_dividend_date": "2028-09-15",
+            "frequency": 4,
+            "pay_date": "2028-09-30",
+            "record_date": "2028-09-15",
+            "ticker": "GECCZ"
+        },
+        {
+            "cash_amount": 0.546875,
+            "currency": "USD",
+            "declaration_date": "2023-08-18",
+            "dividend_type": "CD",
+            "ex_dividend_date": "2028-09-14",
+            "frequency": 4,
+            "pay_date": "2028-09-30",
+            "record_date": "2028-09-15",
+            "ticker": "GECCZ"
+        },
+        {
+            "cash_amount": 0.540799,
+            "currency": "USD",
+            "declaration_date": "2023-08-18",
+            "dividend_type": "CD",
+            "ex_dividend_date": "2028-06-15",
+            "frequency": 4,
+            "pay_date": "2028-06-30",
+            "record_date": "2028-06-15",
+            "ticker": "GECCZ"
+        },
+        {
+            "cash_amount": 0.540799,
+            "currency": "USD",
+            "declaration_date": "2023-08-18",
+            "dividend_type": "CD",
+            "ex_dividend_date": "2028-06-14",
+            "frequency": 4,
+            "pay_date": "2028-06-30",
+            "record_date": "2028-06-15",
+            "ticker": "GECCZ"
+        },
+        {
+            "cash_amount": 0.546875,
+            "currency": "USD",
+            "declaration_date": "2023-08-18",
+            "dividend_type": "CD",
+            "ex_dividend_date": "2028-03-15",
+            "frequency": 4,
+            "pay_date": "2028-03-31",
+            "record_date": "2028-03-15",
+            "ticker": "GECCZ"
+        },
+        {
+            "cash_amount": 0.546875,
+            "currency": "USD",
+            "declaration_date": "2023-08-18",
+            "dividend_type": "CD",
+            "ex_dividend_date": "2028-03-14",
+            "frequency": 4,
+            "pay_date": "2028-03-31",
+            "record_date": "2028-03-15",
+            "ticker": "GECCZ"
+        },
+        {
+            "cash_amount": 0.552951,
+            "currency": "USD",
+            "declaration_date": "2023-08-18",
+            "dividend_type": "CD",
+            "ex_dividend_date": "2027-12-15",
+            "frequency": 4,
+            "pay_date": "2027-12-31",
+            "record_date": "2027-12-15",
+            "ticker": "GECCZ"
+        },
+        {
+            "cash_amount": 0.552951,
+            "currency": "USD",
+            "declaration_date": "2023-08-18",
+            "dividend_type": "CD",
+            "ex_dividend_date": "2027-12-14",
+            "frequency": 4,
+            "pay_date": "2027-12-31",
+            "record_date": "2027-12-15",
+            "ticker": "GECCZ"
+        },
+        {
+            "cash_amount": 0.546875,
+            "currency": "USD",
+            "declaration_date": "2023-08-18",
+            "dividend_type": "CD",
+            "ex_dividend_date": "2027-09-15",
+            "frequency": 4,
+            "pay_date": "2027-09-30",
+            "record_date": "2027-09-15",
+            "ticker": "GECCZ"
+        },
+        {
+            "cash_amount": 0.546875,
+            "currency": "USD",
+            "declaration_date": "2023-08-18",
+            "dividend_type": "CD",
+            "ex_dividend_date": "2027-09-14",
+            "frequency": 4,
+            "pay_date": "2027-09-30",
+            "record_date": "2027-09-15",
+            "ticker": "GECCZ"
+        }
+    ],
+    "status": "OK",
+    "request_id": "9d98e5e54fb1692af155bb6035e04c6c",
+    "next_url": "https://api.polygon.io/v3/reference/dividends?cursor=YXA9MjAyNy0wNi0xNSZhcz1HRUdHTCZsaW1pdD0xMCZvcmRlcj1kZXNjJnNvcnQ9ZXhfZGl2aWRlbmRfZGF0ZQ"
+}

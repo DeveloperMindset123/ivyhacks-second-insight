@@ -1,0 +1,5 @@
+{
+    "status": "ERROR",
+    "request_id": "8ed74024fdd0baefa094b373e8364444",
+    "error": "You've exceeded the maximum requests per minute, please wait or upgrade your subscription to continue. https://polygon.io/pricing"
+}

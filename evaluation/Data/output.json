@@ -1,0 +1,16 @@
+{
+    "response": "I can provide some insights based on historical data and current market trends, but please note that investing in stocks carries risks and future outcomes are never guaranteed. \n\nIn the past 6 months, Tesla's stock has shown significant growth, driven by strong demand for its electric vehicles, expansion into new markets, and positive earnings reports. Over the next 6 months, Tesla's stock price could continue to be influenced by factors such as sales numbers, competition in the electric vehicle market, and macroeconomic trends. If Tesla continues to perform well and meet market expectations, the stock price could potentially continue to rise.\n\nLooking ahead to the next year, Tesla's stock price could be impacted by the company's ability to meet production targets, regulatory changes, and overall market conditions. Tesla's stock has been known for its volatility, so it's important to consider potential risks and uncertainties when making investment decisions.\n\nIn the long term, over the next 5 years, Tesla's stock price could be influenced by factors such as",
+    "matrix": {
+        "relevance": 0.46153846153846156,
+        "quality": 1.0,
+        "accuracy": 0.85,
+        "sentiment": 0.5353324915824916
+    },
+    "user_request": {
+        "goal": "I want to invest in Tesla, what does the outcome look like in 6 months, 1 year, and 5 years, provide me a detailed description.",
+        "context": {
+            "timestamp": "2024-03-23",
+            "text": "I have 100K cash in saving account"
+        }
+    }
+}

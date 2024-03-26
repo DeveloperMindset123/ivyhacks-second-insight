@@ -1,0 +1,6 @@
+*/publish
+**/*.fla
+node_modules
+env
+.env
+.venv

@@ -1,0 +1,67 @@
+{
+    "results": [
+        {
+            "execution_date": "2024-04-15",
+            "split_from": 10,
+            "split_to": 1,
+            "ticker": "SOXS"
+        },
+        {
+            "execution_date": "2024-04-11",
+            "split_from": 5,
+            "split_to": 1,
+            "ticker": "UVXY"
+        },
+        {
+            "execution_date": "2024-04-10",
+            "split_from": 5,
+            "split_to": 1,
+            "ticker": "SSG"
+        },
+        {
+            "execution_date": "2024-04-10",
+            "split_from": 5,
+            "split_to": 1,
+            "ticker": "SPXU"
+        },
+        {
+            "execution_date": "2024-04-10",
+            "split_from": 2,
+            "split_to": 1,
+            "ticker": "REW"
+        },
+        {
+            "execution_date": "2024-04-10",
+            "split_from": 5,
+            "split_to": 1,
+            "ticker": "QID"
+        },
+        {
+            "execution_date": "2024-04-10",
+            "split_from": 5,
+            "split_to": 1,
+            "ticker": "PSQ"
+        },
+        {
+            "execution_date": "2024-04-09",
+            "split_from": 1,
+            "split_to": 2,
+            "ticker": "WJRYY"
+        },
+        {
+            "execution_date": "2024-04-04",
+            "split_from": 10,
+            "split_to": 1,
+            "ticker": "STKH"
+        },
+        {
+            "execution_date": "2024-04-04",
+            "split_from": 1,
+            "split_to": 6,
+            "ticker": "FUJIY"
+        }
+    ],
+    "status": "OK",
+    "request_id": "9036d74b9c2d9a0b7398d82cbf74cd20",
+    "next_url": "https://api.polygon.io/v3/reference/splits?cursor=YXA9MjAyNC0wNC0wMyZhcz1OVkRTJmV4ZWN1dGlvbl9kYXRlLmx0ZT0yMDI0LTA0LTAzJmxpbWl0PTEwJm9yZGVyPWRlc2Mmc29ydD1leGVjdXRpb25fZGF0ZQ"
+}

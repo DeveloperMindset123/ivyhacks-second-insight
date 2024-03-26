@@ -1,0 +1,170 @@
+[
+    {
+        "date": "2024-03-29",
+        "exchange": "NYSE",
+        "name": "Good Friday",
+        "status": "closed"
+    },
+    {
+        "date": "2024-03-29",
+        "exchange": "NASDAQ",
+        "name": "Good Friday",
+        "status": "closed"
+    },
+    {
+        "date": "2024-05-27",
+        "exchange": "NASDAQ",
+        "name": "Memorial Day",
+        "status": "closed"
+    },
+    {
+        "date": "2024-05-27",
+        "exchange": "NYSE",
+        "name": "Memorial Day",
+        "status": "closed"
+    },
+    {
+        "date": "2024-06-19",
+        "exchange": "NASDAQ",
+        "name": "Juneteenth",
+        "status": "closed"
+    },
+    {
+        "date": "2024-06-19",
+        "exchange": "NYSE",
+        "name": "Juneteenth",
+        "status": "closed"
+    },
+    {
+        "close": "2024-07-03T17:00:00.000Z",
+        "date": "2024-07-03",
+        "exchange": "NYSE",
+        "name": "Independence Day",
+        "open": "2024-07-03T13:30:00.000Z",
+        "status": "early-close"
+    },
+    {
+        "close": "2024-07-03T17:00:00.000Z",
+        "date": "2024-07-03",
+        "exchange": "NASDAQ",
+        "name": "Independence Day",
+        "open": "2024-07-03T13:30:00.000Z",
+        "status": "early-close"
+    },
+    {
+        "date": "2024-07-04",
+        "exchange": "NYSE",
+        "name": "Independence Day",
+        "status": "closed"
+    },
+    {
+        "date": "2024-07-04",
+        "exchange": "NASDAQ",
+        "name": "Independence Day",
+        "status": "closed"
+    },
+    {
+        "date": "2024-09-02",
+        "exchange": "NASDAQ",
+        "name": "Labor Day",
+        "status": "closed"
+    },
+    {
+        "date": "2024-09-02",
+        "exchange": "NYSE",
+        "name": "Labor Day",
+        "status": "closed"
+    },
+    {
+        "date": "2024-11-28",
+        "exchange": "NYSE",
+        "name": "Thanksgiving",
+        "status": "closed"
+    },
+    {
+        "date": "2024-11-28",
+        "exchange": "NASDAQ",
+        "name": "Thanksgiving",
+        "status": "closed"
+    },
+    {
+        "close": "2024-11-29T18:00:00.000Z",
+        "date": "2024-11-29",
+        "exchange": "NYSE",
+        "name": "Thanksgiving",
+        "open": "2024-11-29T14:30:00.000Z",
+        "status": "early-close"
+    },
+    {
+        "close": "2024-11-29T18:00:00.000Z",
+        "date": "2024-11-29",
+        "exchange": "NASDAQ",
+        "name": "Thanksgiving",
+        "open": "2024-11-29T14:30:00.000Z",
+        "status": "early-close"
+    },
+    {
+        "close": "2024-12-24T18:00:00.000Z",
+        "date": "2024-12-24",
+        "exchange": "NYSE",
+        "name": "Christmas",
+        "open": "2024-12-24T14:30:00.000Z",
+        "status": "early-close"
+    },
+    {
+        "close": "2024-12-24T18:00:00.000Z",
+        "date": "2024-12-24",
+        "exchange": "NASDAQ",
+        "name": "Christmas",
+        "open": "2024-12-24T14:30:00.000Z",
+        "status": "early-close"
+    },
+    {
+        "date": "2024-12-25",
+        "exchange": "NASDAQ",
+        "name": "Christmas",
+        "status": "closed"
+    },
+    {
+        "date": "2024-12-25",
+        "exchange": "NYSE",
+        "name": "Christmas",
+        "status": "closed"
+    },
+    {
+        "date": "2025-01-01",
+        "exchange": "NASDAQ",
+        "name": "New Years Day",
+        "status": "closed"
+    },
+    {
+        "date": "2025-01-01",
+        "exchange": "NYSE",
+        "name": "New Years Day",
+        "status": "closed"
+    },
+    {
+        "date": "2025-01-20",
+        "exchange": "NASDAQ",
+        "name": "Martin Luther King, Jr. Day",
+        "status": "closed"
+    },
+    {
+        "date": "2025-01-20",
+        "exchange": "NYSE",
+        "name": "Martin Luther King, Jr. Day",
+        "status": "closed"
+    },
+    {
+        "date": "2025-02-17",
+        "exchange": "NYSE",
+        "name": "Washington's Birthday",
+        "status": "closed"
+    },
+    {
+        "date": "2025-02-17",
+        "exchange": "NASDAQ",
+        "name": "Washington's Birthday",
+        "status": "closed"
+    }
+]
